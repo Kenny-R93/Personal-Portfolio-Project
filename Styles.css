@@ -1,0 +1,23 @@
+/* Home Page */
+
+.container {
+    background-color: rgba(3, 47, 105, 0.822);
+    
+}
+
+/* Projects Page */
+.Projects {
+    background-color: (3, 47, 105, 0.822);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    background-color: (3, 47, 105, 0.822);
+    margin: 10%;
+    padding-top: %;
+    border: solid #0d6efd 1px;
+}
+
+/* Interests Page */
